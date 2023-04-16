@@ -35,10 +35,11 @@ export default function Home() {
             priority
           />
         </div>
+        <code className={styles.code}>contato@triadetech.com.br</code>
 
         <div className={styles.grid}>
           <a
-            href="#"
+            href="/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -52,7 +53,7 @@ export default function Home() {
           </a>
 
           <a
-            href="#"
+            href="/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -66,7 +67,7 @@ export default function Home() {
           </a>
 
           <a
-            href="#"
+            href="/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -80,7 +81,7 @@ export default function Home() {
           </a>
 
           <a
-            href="#"
+            href="/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
