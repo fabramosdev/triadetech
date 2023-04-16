@@ -21,7 +21,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Desenvolvimento de&nbsp;
-            <code className={styles.code}>Apps mobile | Sistemas | Sites</code>
+            <code className={styles.code}>Apps | Sistemas | Sites</code>
           </p>
         </div>
 
@@ -44,7 +44,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docs <span>-&gt;</span>
+              Texto 1 <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Find in-depth information about Next.js features and&nbsp;API.
@@ -58,7 +58,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Learn <span>-&gt;</span>
+              Texto 2 <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Learn about Next.js in an interactive course with&nbsp;quizzes!
